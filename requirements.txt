@@ -1,0 +1,29 @@
+# NLP Basics
+nltk
+spacy
+beautifulsoup4
+ftfy
+regex
+
+# Machine Learning
+scikit-learn
+joblib
+
+# Deep Learning & Transformers
+torch
+tensorflow
+transformers
+datasets
+sentence-transformers
+accelerate
+
+# Data Handling & Visualization
+numpy
+pandas
+matplotlib
+seaborn
+tqdm
+
+# Optional
+textblob
+langdetect
